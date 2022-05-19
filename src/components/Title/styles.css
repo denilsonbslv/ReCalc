@@ -1,0 +1,9 @@
+.title {
+    position: absolute;
+    top: 250px;
+    left: 896px;
+    font: normal normal 900 120px/100px Segoe UI;
+    letter-spacing: 0px;
+    color: #D66BFF;
+    opacity: 1;
+}
